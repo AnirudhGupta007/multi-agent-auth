@@ -202,7 +202,7 @@ with st.container():
             )
 
         if teleButton:
-            url = "https://t.me/shantnu_prod_bot"
+            url = "https://t.me/anirudh_007_boy_bot"
             st.markdown("""
                 <div class='telegram-section'>
                     <h4 style='color: #0088cc; margin-bottom: 1rem;'>🎉 You're almost there!</h4>
@@ -214,7 +214,7 @@ with st.container():
 # Footer
 st.markdown("""
     <div style='text-align: center; margin-top: 3rem; padding: 1rem; background-color: #f8f9fa; border-radius: 10px;'>
-        <p style='color: #666; font-size: 0.9rem;'>Made with ❤️ by Shantnu - Prodigal AI</p>
+        <p style='color: #666; font-size: 0.9rem;'>Made with ❤️ by Anirudh Gupta - Prodigal AI</p>
     </div>
 """, unsafe_allow_html=True)
 
